@@ -173,8 +173,8 @@ All dependencies are managed automatically by Maven.
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd tetris
+git clone https://github.com/vajradevam/jetris.git
+cd jetris
 
 # Build and run
 mvn clean javafx:run
